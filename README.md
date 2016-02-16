@@ -1,1 +1,1 @@
-# LogViewer
+# LogViewer - GTKsharp
